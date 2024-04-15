@@ -17,4 +17,6 @@ To push to the branch of the same name on the remote, use
 git push origin HEAD
 To choose either option permanently, see push default in 'git help config'.
 To avoid automatically configuring an upstream branch when its name won't match the local branch, see option 'simple' of branch. autoSetupMerge in 'git help config'.
-PS C: teste>
+PS C: teste>git push origin HEAD:main
+
+ 
